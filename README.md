@@ -1,2 +1,0 @@
-# bukutamu
-project buku tamu

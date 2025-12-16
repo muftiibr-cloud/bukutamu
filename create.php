@@ -6,7 +6,7 @@
 </head>
 <body>
     <div class="container">
-        <h3>Buku Tamu</h3>
+        <h3>Data Mahasiwa</h3>
         <form method="POST" action="gbproses.php">
             <div class="mb-3">
                 <label for="exampleFormControlInput1" class="form-label">Nama</label>
